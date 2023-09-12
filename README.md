@@ -1,6 +1,6 @@
  ## Hi I'm Luca Moreira <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![Github Badge](https://img.shields.io/badge/-@LucaMoreira-b500e5?style=flat&labelColor=b500e5&logo=github&logoColor=white&link=https://github.com/LucaMoreira)](https://github.com/LucaMoreira) [![Mail Badge](https://img.shields.io/badge/-lucamoreiraofficial-ff0000?style=flat&labelColor=ff0000&logo=gmail&logoColor=white)](mailto:lucamoreiraofficial@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-lucamoreiraofficial-4b8bbe?style=flat&labelColor=4b8bbe&logo=instagram&logoColor=white)](https://instagram.com/luca_moreira_official) 
+[![Github Badge](https://img.shields.io/badge/-@LucaMoreira-b500e5?style=flat&labelColor=b500e5&logo=github&logoColor=white&link=https://github.com/LucaMoreira)](https://github.com/LucaMoreira) [![Mail Badge](https://img.shields.io/badge/-lucamoreiraofficial-ff0000?style=flat&labelColor=ff0000&logo=gmail&logoColor=white)](mailto:lucamoreiraofficial@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-lucamoreiraofficial-4b8bbe?style=flat&labelColor=4b8bbe&logo=instagram&logoColor=white)](https://instagram.com/lucamoreira_of) 
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=LucaMoreira&count_private=true&theme=tokyonight&hide=contribs,prs)
 
