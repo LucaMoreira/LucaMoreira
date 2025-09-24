@@ -11,7 +11,7 @@
 
 - 💻 **Senior Full Stack Engineer** — building scalable **web & mobile applications** with **React, React Native, Django & PostgreSQL**  
 - 🔧 Experience leading **cross-functional teams** and architecting **cloud-native, AI-powered solutions** (telecom, energy, retail)  
-- 🌍 Passionate about **mission-driven technology** — co-founder of [Projeto Access](https://github.com/ProjetoAccess), delivering accessibility solutions for the deaf community  
+- 🌍 Passionate about **mission-driven technology** — co-founder of Projeto Access, delivering accessibility solutions for the deaf community  
 - 🤝 Strong believer in **collaboration, mentorship & open-source contribution**  
 - ⚡ Fun fact: I’ve been involved in robotics since school, even coaching teams for national competitions 🦾  
 
